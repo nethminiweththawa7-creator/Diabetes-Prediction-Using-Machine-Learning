@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated model binaries (remove these lines if you want to commit trained models)
+*.joblib
+*.pkl
+*.pickle
+*.h5
+*.keras
+
+# Temporary outputs
+*.log
